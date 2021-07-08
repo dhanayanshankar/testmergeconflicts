@@ -6,4 +6,5 @@ hello
 
 
 simple data
+18.45
 
