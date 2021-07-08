@@ -6,6 +6,9 @@ hello
 
 
 simple data
+<<<<<<< HEAD
 18.45
+=======
 18.41
+>>>>>>> 1st-branch
 
